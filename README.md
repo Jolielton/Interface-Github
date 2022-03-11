@@ -25,5 +25,18 @@ I develop in javascript
   <a href="https://www.instagram.com/jolieltoncarvalho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jolielton.carvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jolielton-carvalho-9ab123212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  
+  <p>
+<h3 align="center">📊 GitHub Stats</h3>
+</p>
+
+<br />
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EvertonCarvalho1&theme=dark&count_private=true&theme=dark&hide_border=true" width="400" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats-amir-yusoff.vercel.app/api?username=EvertonCarvalho1&show_icons=true&hide_border=true&theme=dark" width="400" />
+<img src="https://github-readme-stats-amir-yusoff.vercel.app/api/top-langs/?username=EvertonCarvalho1&layout=compact&hide_border=true&theme=dark" width="400" />
  
     
