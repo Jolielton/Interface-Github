@@ -33,10 +33,10 @@ I develop in javascript
 
 <br />
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EvertonCarvalho1&theme=dark&count_private=true&theme=dark&hide_border=true" width="400" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jolielton1&theme=buefy&count_private=true&theme=buefy&hide_border=true" width="400" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats-amir-yusoff.vercel.app/api?username=EvertonCarvalho1&show_icons=true&hide_border=true&theme=dark" width="400" />
-<img src="https://github-readme-stats-amir-yusoff.vercel.app/api/top-langs/?username=EvertonCarvalho1&layout=compact&hide_border=true&theme=dark" width="400" />
+<img src="https://github-readme-stats-amir-yusoff.vercel.app/api?username=jolielton1&show_icons=true&hide_border=true&theme=buefy" width="400" />
+<img src="https://github-readme-stats-amir-yusoff.vercel.app/api/top-langs/?username=jolielton1&layout=compact&hide_border=true&theme=dark" width="400" />
  
     
