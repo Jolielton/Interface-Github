@@ -3,8 +3,8 @@
 I develop in javascript 
 
 
-- 🔭Hoje trabalho com Javascript na Intelligent Security Systems .
-- 🌱 Estudando Javascript e Figma ...
+- 💻Today I work with Javascript at Intelligent Security Systems. .
+- 🌱 Studying Javascript and Figma ...
 
 </br>
 <p>
