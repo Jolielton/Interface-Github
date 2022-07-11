@@ -3,7 +3,7 @@
 I develop in javascript 
 
 
-- 💻Today I work with Javascript at Intelligent Security Systems. .
+- 💻Today I work with Javascript .
 - 🌱 Studying Javascript and Figma ...
 
 </br>
